@@ -1,11 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="74f503e7-0797-4a69-8c52-5604895a3490" name="Changes" comment="" />
+    <list default="true" id="74f503e7-0797-4a69-8c52-5604895a3490" name="Changes" comment="Estructura del proyecto" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="YulietM &lt;yulietmurcia18@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "YulietM"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="cc713407-76a5-4620-9906-9f3180080ac9" />
+        <option name="url" value="https://github.com/YulietM/practica-java-basico.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
@@ -20,8 +52,20 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
+    ]
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -32,8 +76,118 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698341543697</updated>
-      <workItem from="1698341545087" duration="3000" />
+      <workItem from="1698341545087" duration="28557000" />
     </task>
+    <task id="LOCAL-00001" summary="Estructura del proyecto">
+      <option name="closed" value="true" />
+      <created>1698352523417</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698352523417</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Estructura del proyecto">
+      <option name="closed" value="true" />
+      <created>1698353425325</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698353425325</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Estructura del proyecto">
+      <option name="closed" value="true" />
+      <created>1698353433149</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698353433149</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Estructura del proyecto">
+      <option name="closed" value="true" />
+      <created>1698353441835</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698353441835</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Estructura del proyecto">
+      <option name="closed" value="true" />
+      <created>1698353653462</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698353653462</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Estructura del proyecto">
+      <option name="closed" value="true" />
+      <created>1698354461386</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698354461386</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Estructura del proyecto">
+      <option name="closed" value="true" />
+      <created>1698971180810</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698971180810</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Estructura del proyecto">
+      <option name="closed" value="true" />
+      <created>1698972094949</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1698972094949</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Estructura del proyecto">
+      <option name="closed" value="true" />
+      <created>1698972100509</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1698972100509</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Estructura del proyecto">
+      <option name="closed" value="true" />
+      <created>1698972114672</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1698972114672</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="f4e1d520-98b6-4a30-94ac-79f1c4b358ff" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="f4e1d520-98b6-4a30-94ac-79f1c4b358ff">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ejercicicos resueltos" />
+    <MESSAGE value="Estructura del proyecto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Estructura del proyecto" />
   </component>
 </project>
