@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74f503e7-0797-4a69-8c52-5604895a3490" name="Changes" comment="Estructura del proyecto" />
+    <list default="true" id="74f503e7-0797-4a69-8c52-5604895a3490" name="Changes" comment="ejercicios resultos">
+      <changelist_data name="YulietM" email="yulietmurcia18@gmail.com" />
+      <change beforePath="$PROJECT_DIR$/src/salidaDatosxConsola/Ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/salidaDatosxConsola/Ejercicio2.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +26,7 @@
         <option value="YulietM &lt;yulietmurcia18@gmail.com&gt;" />
       </list>
     </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -54,7 +58,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Merging master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -76,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698341543697</updated>
-      <workItem from="1698341545087" duration="28557000" />
+      <workItem from="1698341545087" duration="28963000" />
     </task>
     <task id="LOCAL-00001" summary="Estructura del proyecto">
       <option name="closed" value="true" />
@@ -158,7 +162,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698972114672</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="ejercicios resultos">
+      <option name="closed" value="true" />
+      <created>1698972151886</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1698972151886</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,7 +199,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ejercicicos resueltos" />
+    <MESSAGE value="ejercicios resueltos" />
     <MESSAGE value="Estructura del proyecto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Estructura del proyecto" />
+    <MESSAGE value="ejercicios resultos" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejercicios resultos" />
   </component>
 </project>
